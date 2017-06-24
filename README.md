@@ -1,3 +1,9 @@
-[v0.0.2](https://github.com/littleflute/m12/edit/master/README.md)
+[v0.0.4](https://github.com/littleflute/m12/edit/master/README.md)
 
-[119](119/cd)
+[120](120)
+
+[121](121/cd)
+
+[122](122/cd)
+
+[123](123/cd)
